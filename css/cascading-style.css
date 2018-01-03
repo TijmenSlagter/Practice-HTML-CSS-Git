@@ -11,7 +11,7 @@
 }
 .analog p a {
   font-style: italic;
-  background-color: purple;
+  background-color: pink;
 }
 a {
   font-weight: normal;
@@ -26,4 +26,19 @@ h2 {
 }
 .countries h2 {
   font-style: normal;
+}
+h1 {
+  color: yellow;
+}
+h1{
+  color: black;
+}
+.Green{
+  color: green;
+}
+.Ice {
+  color: lightblue;
+}
+body{
+  background-color: Darkred;
 }
