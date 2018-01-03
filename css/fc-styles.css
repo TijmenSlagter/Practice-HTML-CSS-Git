@@ -1,0 +1,36 @@
+img {
+  float: left;
+  padding-right: 30px;
+  width: 300px;
+}
+.sidebar {
+  padding-left: 100px;
+  border-spacing: 30px;
+  width: 10%;
+  float: right;
+  background-color: skyblue;
+  color: black
+}
+.column1 {
+  padding-right: 30px;
+  width: 200px;
+  float: left;
+}
+.column2 {
+  padding-right:  30px;
+  width: 300px;
+  float: left;
+}
+.column3 {
+  padding-right: 30px;
+  width: 700px;
+  float: left;
+}
+body {
+  background-color: navy;
+  color: white;
+}
+.main {
+  padding-right: 30px;
+
+}
