@@ -19,7 +19,7 @@ img {
 }
 .column {
   padding-right: 30px;
-  width: 400px;
+  width: 410px;
   float: left;
 }
 body {
@@ -29,4 +29,7 @@ body {
 .main {
   padding-right: 30px;
 
+}
+.footnote {
+margin-top: 250px;
 }
