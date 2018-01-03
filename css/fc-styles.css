@@ -2,28 +2,19 @@ img {
   float: left;
   padding-right: 30px;
   width: 300px;
+  height: 250px;
 }
 .sidebar {
-  padding-left: 100px;
-  border-spacing: 30px;
+  padding: 10px;
+  margin: 30px;
   width: 10%;
   float: right;
   background-color: skyblue;
   color: black
 }
-.column1 {
+.column {
   padding-right: 30px;
-  width: 200px;
-  float: left;
-}
-.column2 {
-  padding-right:  30px;
-  width: 300px;
-  float: left;
-}
-.column3 {
-  padding-right: 30px;
-  width: 700px;
+  width: 400px;
   float: left;
 }
 body {
