@@ -3,7 +3,7 @@ html {
     padding: 0;
 }
 body {
-    font-family: 'Julius Sans One', sans-serif;;
+    font-family: 'Julius Sans One', sans-serif;
     font-size: 13pt;
     font-style:italic;
     color; #2e484c;
@@ -170,4 +170,7 @@ input, textarea {
 }
 .table{
   height: 365px;
+}
+.goal{
+  font-size: 2em;
 }
