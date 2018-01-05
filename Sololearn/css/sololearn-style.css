@@ -3,21 +3,28 @@ html {
     padding: 0;
 }
 body {
-    font-family: 'Handlee', cursive;
+    font-family: 'Julius Sans One', sans-serif;;
     font-size: 13pt;
-    background-color: black;
+    font-style:italic;
+    color; #2e484c;
+    text-align: center;
+    background-color: aliceblue;
     padding: 10px;
     margin: 0;
+    background-image: url(image(Img/Tulpenveld.jpg);)
 }
 h1 {
-    font-size: 15pt;
-    color: #20bcd5;
+    font-size: 30pt;
+    color:#2e484c;
     text-align: center;
     padding: 18px 0 18px 0;
     margin: 0 0 10px 0;
+    font-style: italic;
+    font-family: -webkit-body;
+
 }
 h1 span {
-    border: 4px dashed #20bcd5;
+    border: 4px dashed #ffffff;
     padding: 10px;
 }
 p {
@@ -29,13 +36,13 @@ p {
     border-radius: 50%;
 }
 .section {
-    background-color: #fff;
+    background-color: #ffffff;
     padding: 15px;
     margin-bottom: 10px;
     border-radius: 10px;
 }
 #header {
-    background-image: url("https://www.sololearn.com/Uploads/header.jpg");
+    background-image: url("http://www.csszengarden.com/214/huntington.jpg");
     background-size: cover;
 }
 #header img {
@@ -67,7 +74,7 @@ table, th, td {
     table-layout: fixed;
 }
 .selected {
-    background-color: blue;
+    background-color: #7e9e8e;
     font-weight: bold;
     color: white;
 }
