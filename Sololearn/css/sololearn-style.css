@@ -40,8 +40,8 @@ p {
 }
 #header img {
     display: block;
-    width: 80px;
-    height: 80px;
+    width: 150px;
+    height: 150px;
     margin: auto;
 }
 #header p {
@@ -67,7 +67,7 @@ table, th, td {
     table-layout: fixed;
 }
 .selected {
-    background-color: #f36f48;
+    background-color: blue;
     font-weight: bold;
     color: white;
 }
